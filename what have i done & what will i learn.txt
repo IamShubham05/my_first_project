@@ -1,0 +1,34 @@
+What have i done in javascript? That are as follows :-
+1. Data type in javascript
+	i.   primitive (undefined, null, number ,boolean, string)
+	ii.  reference(arrays)
+2. Airthmetic operators
+3. Assignment operators
+4. Comparison operaotrs
+5. Logical or ,and & not (&& ,||& !)
+6. Functions in javascript 
+	i.   arrow function
+	ii.  function expression 
+	iii. function declaration
+7. Conditionals in javascript
+	i.   if & else ladder
+	ii.  else if ladder
+8. For loop , while loop and do while loop
+9. Array methods in javascript (length,pop,push,shift,unshift)
+10. String methods in javascript (length,indesof,lastindesof,replace)
+11.Date methods (getday,getime, getfullyear,getminutes,getutchours)
+
+What i will start today?  means from 23/1/2023
+1. D.O.M Manupulation
+2. class list methods :- classlist.add ,classlist.remove,classlist.toggle,classlist.contains and classlist.length
+3. selection using query like querySelector and querySelectorAll
+4. Events in javascript (starting)
+
+from 31/1/2023 --> i have started these particulars given below :-
+1. events in javascript (with using Functions).
+	i.   click,mouseup,mousedown,mouseover and window.onload.
+	ii.  changing innertext of containers with events.
+2. Studies more about Eventlistner.
+3. Set Timeout(one time process) and SetInterval(continuous process after particular time).
+4. LocalStorage in javascript [like localstorage.setItem('key','value') & localstorage.clear()]
+5. Starting basic concept about Json.

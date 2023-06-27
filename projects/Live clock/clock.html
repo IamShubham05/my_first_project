@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Clock</title>
+    <script>
+        let a,date,time;
+        setInterval(() => {
+            a=new Date();
+        date=a.toLocaleDateString();
+        time=a.getHours()+':'+a.getMinutes()+':'+a.getSeconds()+':'+a.getMilliseconds();
+        document.getElementById('clock').innerHTML=time+"  <br> on  "+date;    
+        }, 10);
+    </script>
+<style>
+    *{
+        text-align: center;
+    }
+    #clock{
+        font-family: century gothic;
+        color:blueviolet;
+        
+    }
+</style>
+</head>
+<body>
+    <h1> Date and time </h1>
+    Your current time is <div id="clock"><b></div> 
+    
+</body>
+</html>
